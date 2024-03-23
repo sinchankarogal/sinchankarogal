@@ -29,12 +29,16 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## 🏆 GitHub Stats
 
-![sinchankarogal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinchankarogal&theme=chartreuse-dark&showicons=true&show_icons=true&count_private=true])
+![sinchankarogal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinchankarogal&theme=chartreuse-dark&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchankarogal&layout=compact&theme=chartreuse-dark&langs_count=8])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinchankarogal&theme=chartreuse-dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinchankarogal&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinchankarogal&theme=chartreuse-dark&count_private=true)
 
-[![sinchan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinchankarogal&theme=dracula)](https://github.com/sinchankarogal/github-readme-activity-graph)
+## 📈 GitHub Activity Graph
+[![sinchankarogal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinchankarogal&theme=github)](https://github.com/sinchankarogal/github-readme-activity-graph)
+
+<!--[![sinchan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinchankarogal&theme=dracula)](https://github.com/sinchankarogal/github-readme-activity-graph)--!>
