@@ -54,7 +54,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sinchankarogal&theme=chartreuse-dark&count_private=true)
 
-## 📈 GitHub Activity Graph
-[![sinchankarogal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinchankarogal&theme=github-compact)](https://github.com/sinchankarogal/github-readme-activity-graph)
+<!--## 📈 GitHub Activity Graph--!>
+<!--[![sinchankarogal's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinchankarogal&theme=github-compact)](https://github.com/sinchankarogal/github-readme-activity-graph)--!>
 
 <!--[![sinchan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sinchankarogal&theme=dracula)](https://github.com/sinchankarogal/github-readme-activity-graph)--!>
